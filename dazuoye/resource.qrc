@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background1.jpg</file>
+        <file>res/titlescreen.jpg</file>
+        <file>res/Almanac_ZombieWindow2.png</file>
+    </qresource>
+</RCC>
