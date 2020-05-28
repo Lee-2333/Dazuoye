@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background1.jpg</file>
+        <file>res/Almanac_ZombieWindow2.png</file>
+        <file>res/tower1.png</file>
+        <file>res/tower2.png</file>
+        <file>res/titlescreen.jpg</file>
+        <file>res/PeaBullet.png</file>
+        <file>res/Projectile_star.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
